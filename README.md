@@ -10,3 +10,6 @@ in questo caso sono 3.
 d. Si visualizzi il numero di vertici ed archi del grafo.
 e. Permettere all’utente di selezionare una localizzazione, ed alla pressione del tasto “Statistiche”, stampare
 tutte le localizzazioni connesse a quelle selezionata, visualizzando per ciascuna di esse il peso dell’arco corrispondente.
+PUNTO 2
+a. A partire dal grafo calcolato al punto precedente, alla pressione del tasto “Ricerca Cammino”, si avvii una procedura di ricerca ricorsiva per determinare il più lungo cammino semplice di localizzazioni che parta dalla localizzazione selezionata dall’utente. La lunghezza del cammino sarà valutata dalla somma dei pesi degli archi incontrati.
+b. Si stampi la sequenza di localizzazioni di lunghezza massima così ottenuta.
